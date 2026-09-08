@@ -8,7 +8,9 @@ Here is the example to replicate:
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_example.png)
 
 % WRITE YOUR MARKDOWN HERE
+
 **My First Markdown Document**
+
 This is my introduction to *markdown formatting*. I'm learning how to use various formatting options so that I can style my reports. 
 
 **Skills I'm practicing:**
@@ -28,6 +30,7 @@ Here's a simple Python example:
 
 **Useful Resources:**
 - [Markdown Guide](https://www.markdownguide.org/basic-syntax/)
+
 *Remember, practice makes perfect!*
 
 
