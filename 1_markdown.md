@@ -35,6 +35,7 @@ Here's a simple Python example:
 
 
 
+
 ## Task 2 Open rendered markdown preview
 
 Test out the rendered markdown preview in VS code (`CTRL`+`SHIFT`+`V`). Is it identical to the image?
@@ -46,6 +47,13 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
 % WRITE YOUR MARKDOWN HERE
-
+Markdown table:
+| Language | Difficulty | Use Case | Popularity |
+| :--- | :--- | :--- | :---: |
+| Python | Beginner | Data Science, Web Dev | ⭐⭐⭐⭐⭐ |
+| JavaScript | Beginner | Web Development | ⭐⭐⭐⭐⭐ |
+| C++ | Advanced | System Programming | ⭐⭐⭐ |
+| R | Intermediate | Statistics, Data Analysis | ⭐⭐⭐ |
+ 
 
 > By Tom van Woudenberg, Delft University of Technology. CC BY 4.0, more info [on the Credits page of Workbook](https://mude.citg.tudelft.nl/workbook-2025/credits.html).
