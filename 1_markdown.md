@@ -47,6 +47,7 @@ Now try to replicate the following markdown table (you can copy-paste the star e
 ![Markdown example](https://github.com/TUDelft-MUDE/source-files/raw/main/file/markdown_table.png)
 
 % WRITE YOUR MARKDOWN HERE
+
 Markdown table:
 | Language | Difficulty | Use Case | Popularity |
 | :--- | :--- | :--- | :---: |
